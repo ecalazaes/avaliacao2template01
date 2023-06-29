@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: #252422;
+}
+
+.cor-texto {
+    color: #7a0c29;
+}
+
+.cor-fnd {
+    background-color: #7a0c29;
+}
+
+.cor-fnd-acc {
+    background-color: #d9d9d9;
+}
+
+.cor-fnd-acc-body {
+    background-color: #252422;
+}
+
+.cor-fnd-cont {
+    background-color: #252422;
+}
